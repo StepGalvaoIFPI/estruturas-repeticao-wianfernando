@@ -8,7 +8,7 @@ public class Q1{
         if (velocidade > 80){
             System.out.println("Vermelho");
         }else{
-            System.err.println("Verde");
+            System.out.println("Verde");
         }
         entrada.close();
     }
